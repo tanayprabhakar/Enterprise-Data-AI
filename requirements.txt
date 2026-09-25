@@ -4,3 +4,7 @@ presidio-anonymizer
 Faker
 pytesseract
 spacy
+spacy-transformers
+Pillow
+pandas
+easyocr
