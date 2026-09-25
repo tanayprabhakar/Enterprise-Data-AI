@@ -1,0 +1,6 @@
+python-docx
+presidio-analyzer
+presidio-anonymizer
+Faker
+pytesseract
+spacy

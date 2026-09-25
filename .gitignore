@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Documents & PII data (CRITICAL to ignore for security)
+*.docx
+*.pdf
+*.csv
+*.xlsx
+data/input/
+data/output/
